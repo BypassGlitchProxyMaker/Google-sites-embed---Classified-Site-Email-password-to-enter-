@@ -1,5 +1,5 @@
 # Google-sites-embed---Classified-Site-Email-password-to-enter-
-
+(Change the email to your email, and the password too whatever you want. They are toward the bottom of the code)
 Code:
 
 <!DOCTYPE html>
